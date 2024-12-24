@@ -39,9 +39,8 @@ Ce simulateur vise à être un outil robuste pour l'apprentissage, les tests et 
 
   - **Effacement et décalage :**
     - `CLRA`
-    - Décalages logiques (`LSLA`, `LSLB`, `LSLU`, `LSLS`, `LSLX`, `LSLY`)
-    - Décalages droits (`LSRA`, `LSRB`, `LSRU`, `LSRS`, `LSRX`, `LSRY`)
-    - Rotations (`ROLA`, `ROLB`, `ROLU`, `RORO`, `ROLX`, `ROLY`, `RORA`, `RORB`, `RORU`, `RORS`, `RORX`, `RORY`)
+    - Décalages logiques (`LSLA`, `LSLB`, `LSRA`, `LSRB`)
+    - Rotations (`ROLA`, `ROLB`, `RORA`, `RORB`)
 
   - **Opérations de comparaison :**
     - `CMPA`, `CMPB`, `CMPU`, `CMPX`, `CMPY`
